@@ -1,0 +1,6 @@
+rootProject.name = 'eureka-root'
+include 'module-first'
+include 'module-second'
+include 'module-eureka'
+include 'module-gateway'
+
